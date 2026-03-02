@@ -129,6 +129,8 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 
 ![Metrics](./github-metrics.svg)
 
+![Snake](https://raw.githubusercontent.com/Gwendal-B/Gwendal-B/output/github-contribution-grid-snake.svg)
+
 </details>
 
 ---

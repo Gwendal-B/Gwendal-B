@@ -116,6 +116,8 @@ Now building strong foundations in **systems programming, architecture, and web 
 
 ![Metrics](./github-metrics.svg)
 
+![Snake](https://raw.githubusercontent.com/Gwendal-B/Gwendal-B/output/github-contribution-grid-snake.svg)
+
 </details>
 
 ---
