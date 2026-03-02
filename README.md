@@ -11,7 +11,7 @@ Former retail manager (50+ team members) now building structured, scalable softw
 # 📅 Let’s Connect
 
 Interested in discussing full-stack engineering, architecture, or internship opportunities?
-
+📩 [gwendal.boisard@hotmail.com](mailto:gwendal.boisard@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/gwendal-boisard)
 
 ---
 
