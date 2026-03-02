@@ -1,5 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Gwendal%20Boisard&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybers%C3%A9curit%C3%A9%20%26%20IA%2FML%20%7C%20Holberton%20School%20Rennes&descAlignY=55)
+# Gwendal Boisard
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Gwendal%20Boisard&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybers%C3%A9curit%C3%A9%20%26%20IA%2FML%20%7C%20Holberton%20School%20Rennes&descAlignY=55)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gwendal-B&label=Visites%20du%20profil&style=for-the-badge&color=1f6feb" />
 </p>
