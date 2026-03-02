@@ -1,9 +1,5 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Gwendal%20Boisard&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Histoire%20de%20l'Art%20%E2%86%92%20Logistique%20%E2%86%92%20Code%20%7C%20Cybersécurité%20%26%20IA&descAlignY=58&descSize=16)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gwendal-B&label=Visites%20du%20profil&style=for-the-badge&color=1f6feb" />
-</p>
-
 ---
 
 ## 👋 Qui suis-je ?
