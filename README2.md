@@ -113,8 +113,6 @@ Now building strong foundations in **systems programming, architecture, and web 
 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gwendal-B&bg_color=161b22&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true)
 
-![Metrics](./github-metrics.svg)
-
 </details>
 
 ---
