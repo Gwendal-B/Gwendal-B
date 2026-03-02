@@ -11,8 +11,6 @@ Former retail manager (50+ team members) now building structured, scalable softw
 
 Interested in discussing full-stack engineering, architecture, or internship opportunities?
 
-👉 Book a 20-minute technical or informative call:  
-[Book me!](https://calendar.app.google/U6Q94Svp3Wt1fEj26)
 
 ---
 
@@ -26,7 +24,7 @@ Python • OOP • Layered Architecture • UML
 - Facade pattern implementation  
 - API interaction flows & technical documentation  
 
-👉 [Hbnb project](https://github.com/Gwendal-B/holbertonschool-hbnb)
+👉 [Hbnb project](https://github.com/Antgst/holbertonschool-hbnb)
 
 ---
 
@@ -62,7 +60,7 @@ Internship / apprenticeship in fullstack web development (Rennes or remote).
 <summary><b>🖥 Systems Programming (C)</b></summary>
 
 **Simple Shell** – process handling, parsing, memory discipline  
-👉 [Simple shell project](https://github.com/Gwendal-B/holbertonschool-simple_shell)
+👉 [Simple shell project](https://github.com/juliangf94/holbertonschool-simple_shell)
 
 **_printf** – variadic functions & format parsing  
 👉 [Printf project](https://github.com/Gwendal-B/holbertonschool-printf)
