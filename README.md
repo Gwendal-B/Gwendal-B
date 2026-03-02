@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=200&section=header&text=Gwendal%20Boisard&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20in%20Training&descAlignY=55)
 # 👋 Gwendal Boisard
 
 ![Profile views](https://komarev.com/ghpvc/?username=Gwendal-B&label=Profile%20views&style=for-the-badge&color=red)
