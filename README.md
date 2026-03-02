@@ -4,13 +4,13 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Gwendal-B&label=Profile%20views&style=for-the-badge&color=red)
 
 **Full-Stack developer in training — Holberton School (Rennes)**  
-Former retail manager (50+ team members) now building structured, scalable software with a systems mindset.
+Former archaeology student than order picker now building structured, scalable software with a systems mindset.
 
 ---
 
 # 📅 Let’s Connect
 
-Interested in discussing full-stack engineering, architecture, or internship opportunities?
+Interested in discussing AI machine learning, Cybersecurity, architecture, or internship opportunities?
 📩 [gwendal.boisard@hotmail.com](mailto:gwendal.boisard@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/gwendal-boisard)
 
 ---
